@@ -1,6 +1,6 @@
 package mermaid.Main
 
-import mermaid.Sequence
+import mermaid.Sequence._
 
 @main def hello: Unit =
   println("Hello world!")
